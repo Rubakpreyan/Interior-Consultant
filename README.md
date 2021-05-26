@@ -11,7 +11,7 @@ git clone "https://github.com/Rubakpreyan/Interior-consultant.git"
 ```
 
 ## Demo link
-[Interior Consultant Page demo link]()
+[Interior Consultant Page demo link](https://rubakpreyan.github.io/Interior-consultant/)
 
 ## Credits
 Resource from [DevChallenges](https://devchallenges.io/)
